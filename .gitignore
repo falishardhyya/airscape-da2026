@@ -1,5 +1,6 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+data/*
+!data/.gitkeep
+hasil/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
